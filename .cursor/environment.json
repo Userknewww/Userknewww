@@ -1,0 +1,11 @@
+{
+  "name": "Userknewww GitHub Profile README",
+  "install": "pip install --user grip",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "python3 -m grip README.md 0.0.0.0:6419"
+    }
+  ],
+  "ports": [6419]
+}
