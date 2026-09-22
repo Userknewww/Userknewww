@@ -1,0 +1,11 @@
+{
+  "name": "Userknewww GitHub Profile README",
+  "install": "python3 --version",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "python3 preview_server.py README.md 6419"
+    }
+  ],
+  "ports": [6419]
+}
